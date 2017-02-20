@@ -1,3 +1,11 @@
+// Global String Object
+// String.prototype.split()
+// Array.prototype.reverse()
+// Array.prototype.join()
+
+
+
+
 function reverseString(str) {
   
   var res = str.split("");
